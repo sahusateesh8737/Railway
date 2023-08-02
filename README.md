@@ -7,7 +7,7 @@ An Script to host on railway.app ~
 - START_CMD
 
 
-# Deploy 
+# Deploy  
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/RXeiAo?referralCode=GTp-zc)
 
